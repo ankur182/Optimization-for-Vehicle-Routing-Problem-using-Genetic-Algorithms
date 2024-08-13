@@ -8,14 +8,17 @@ Use simple analogies or examples to make the concept relatable.
 
 2. The Vehicle Routing Problem (VRP)
 Objective: Explain the significance of VRP in real-world contexts. Tell the reader why this is an important and worthwhile problem. Content Suggestions:
-
 Describe the VRP, its challenges, and its relevance in logistics and supply chain management.
+
+
 3. Project Implementation and Code Explanation
 Objective: Detail the project implementation with code snippets and explanations. Content Suggestions:
 
 Walk through the main parts of the project, like setting up individuals and populations, defining the fitness evaluation function, and configuring genetic operators.
 Explain the rationale behind choosing specific crossover, mutation, and selection methods.
 Include code snippets and visuals (e.g., Matplotlib charts) to illustrate points.
+
+
 4. Experimentation and Results
 Objective: Discuss the experiments conducted and the insights derived. Content Suggestions:
 
